@@ -16,6 +16,7 @@ This project will help you create a ReadMe generator using node.js and inquire m
 ***
 
 ## Installation
+You need to intall inquire package by using: npm install inquirer.
 ***
 
 ## Usage
